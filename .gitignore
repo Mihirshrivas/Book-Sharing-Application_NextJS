@@ -22,14 +22,13 @@ yarn-debug.log*
 yarn-error.log*
 
 # next.js
-/.next/
-/out/
+
+
 
 # env files
 .env*
 
-# vercel
-.vercel
+
 
 # typescript
 *.tsbuildinfo
